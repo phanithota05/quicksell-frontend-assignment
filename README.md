@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
    -> git clone https://github.com/phanithota05/quicksell-frontend-assignment.git
 
 2. Navigate to the project directory:
-  cd kanban-board
+  cd quicksell-frontend-assignment
 
 3.Install the dependencies:
   npm install
